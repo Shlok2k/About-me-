@@ -65,9 +65,9 @@
 
 | ⭐ Project  | 🔎 Description |💻 Tech Stack
 |----------------|--------------|---------------
-| 📊 Live Data Dashboard | Dynamic dashboard for real-time data analysis | React, Chart.js, Flask
-| 🛒 E-Commerce Platform | MERN-based store with user auth & payment | MongoDB, Express, React, Node.js
-| 📹 Video Chat App | Real-time chat & video conferencing | WebRTC, Socket.io, Node.js
+| 📊 Data analytics | Dynamic dashboard for real-time data analysis | Python , Matplotlib , Seaborn , Plotly , Pandas , Numpy , Dash , HTML , CSS
+| 🛒 Recipe finder | Showing the recipe hub with summary, ingredients and steps |HTML , CSS , React , API
+| 📹E-commerce Website | Frontend of Shopping website | HTML, CSS , Responsive Java Script
 
 ---
 
