@@ -66,8 +66,8 @@
 | ⭐ Project  | 🔎 Description |💻 Tech Stack
 |----------------|--------------|---------------
 | 📊 Data analytics | Dynamic dashboard for real-time data analysis | Python , Matplotlib , Seaborn , Plotly , Pandas , Numpy , Dash , HTML , CSS
-| 🛒 Recipe finder | Showing the recipe hub with summary, ingredients and steps |HTML , CSS , React , API
-| 📹E-commerce Website | Frontend of Shopping website | HTML, CSS , Responsive Java Script
+| 🍽️ Recipe finder | Showing the recipe hub with summary, ingredients and steps |HTML , CSS , React , API
+| 🛒E-commerce Website | Frontend of Shopping website | HTML, CSS , Responsive Java Script
 
 ---
 
